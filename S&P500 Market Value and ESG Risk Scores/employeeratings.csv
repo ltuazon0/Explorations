@@ -1,0 +1,469 @@
+﻿4951,Company,Industry,Industry-Sub,Location,Year,Notes/References,Glassdoor Overall Star Rating (out of 5),Glassdoor Reviews Total,Indeed Overall Star Rating (out of 5),Indeed Reviews Total,Comparably Overall Star Rating,Comparably Reviews Total,,,,
+ACN,Accenture,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",1989,"Glassdoor source: https://www.glassdoor.com/Reviews/Accenture-Reviews-E4138.htm
+Indeed source: https://www.indeed.com/cmp/Accenture/reviews
+Comparably source: https://www.comparably.com/companies/accenture",3.9,137470,4,25918,4,13324,,,,
+ADBE,Adobe Inc.,Information Technology,Application Software,"San Jose, California",1982,"Glassdoor source: https://www.glassdoor.com/Reviews/Adobe-Reviews-E1090.htm
+Indeed source: https://www.indeed.com/cmp/Adobe
+Comparably source: https://www.comparably.com/companies/amd",4.3,5384,4.3,814,4.9,26446,,,,
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,"Santa Clara, California",1969,"Glassdoor source: https://www.glassdoor.com/Reviews/AMD-Reviews-E15.htm
+Indeed source: https://www.indeed.com/cmp/Adobe
+Comparably source: https://www.comparably.com/companies/amd",4.1,3769,4.3,814,4.5,3058,,,,
+ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","San Francisco, California",2008,"Glassdoor source: https://www.glassdoor.com/Reviews/Airbnb-Reviews-E391850.htm
+Indeed source: https://www.indeed.com/cmp/Airbnb/reviews
+Comparably source: https://www.comparably.com/companies/airbnb",4.3,1943,4.2,596,4.2,3544,,,,
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",1998,"Glassdoor source: https://www.glassdoor.com/Reviews/Akamai-Reviews-E9219.htm
+Indeed source: https://www.indeed.com/cmp/Akamai-7/reviews
+Comparably source: https://www.comparably.com/companies/akamai",4.5,2833,4.1,262,4.5,1946,,,,
+GOOGL,Google (Alphabet Inc.) ,Communication Services,Interactive Media & Services,"Mountain View, California",1998,"(Though Google is a subsidiary of Alphabet Inc., due to sparse employee reviews & unavailable distinct ratings for both Class A & C, I made the decision to merge both Alphabet Inc. Class A, Class C under their subsidiary Google)
+
+Glassdoor source: https://www.glassdoor.com/Reviews/Google-Reviews-E9079.htm
+Indeed source: https://www.indeed.com/cmp/Google/reviews
+Comparably source: https://www.comparably.com/companies/google",4.4,35776,4.3,5335,4.6,75699,,,,
+MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",1985,"Glassdoor source: https://www.glassdoor.com/Reviews/Altria-Reviews-E528.htm
+Indeed source: https://www.indeed.com/cmp/Altria/reviews
+Comparably source: https://www.comparably.com/companies/altria",3.9,1189,4,626,3.9,728,,,,
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,"Seattle, Washington",1994,"Glassdoor source: https://www.glassdoor.com/Reviews/Amazon-Reviews-E6036.htm
+Indeed source: https://www.indeed.com/cmp/Amazon.com/reviews
+Comparably source: https://www.comparably.com/companies/amazon",3.7,166882,3.5,47695,4.2,115140,,,,
+APH,Amphenol,Information Technology,Electronic Components,"Wallingford, Connecticut",1932,"Glassdoor source: https://www.glassdoor.com/Reviews/Amphenol-Reviews-E1967.htm
+Indeed source: https://www.indeed.com/cmp/Amphenol-Canada-1/reviews?start=60
+Comparably source: https://www.comparably.com/companies/amphenol-corporation",3.9,475,3.6,835,3.5,222,,,,
+ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachusetts",1965,"Glassdoor source: https://www.glassdoor.com/Reviews/Analog-Devices-Reviews-E49.htm
+Indeed source: https://www.indeed.com/cmp/Analog-Devices/reviews
+Comparably source: https://www.comparably.com/companies/analog-devices",4,2204,3.9,895,3.8,1291,,,,
+ANSS,Ansys,Information Technology,Application Software,"Canonsburg, Pennsylvania",1969,"Glassdoor source: https://www.glassdoor.com/Reviews/Ansys-Reviews-E6135.htm
+Indeed source: https://www.indeed.com/cmp/Ansys/reviews
+Comparably source: https://www.comparably.com/companies/ansys-inc",4.2,839,3.7,146,4.2,706,,,,
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1977,"Glassdoor source: https://www.glassdoor.com/Reviews/Apple-Reviews-E1138.htm
+Indeed source: https://www.indeed.com/cmp/Apple/reviews
+Comparably source: https://www.comparably.com/companies/apple",4.2,35566,4.1,12856,4.2,29432,,,,
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",1967,"Glassdoor source: https://www.glassdoor.com/Reviews/Applied-Materials-Reviews-E1139.htm
+Indeed source: https://www.indeed.com/cmp/Applied-Materials/reviews
+Comparably source: https://www.comparably.com/companies/applied-materials",4,3553,3.9,1124,3,1881,,,,
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,"Dublin, Ireland",1994,"Glassdoor source: https://www.glassdoor.com/Reviews/Aptiv-Reviews-E1891089.htm
+Indeed source: https://www.indeed.com/cmp/Aptiv-1/reviews
+Comparably source: https://www.comparably.com/companies/aptiv",3.2,1050,3.8,666,3.2,868,,,,
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services,"Chicago, Illinois",1902,"Glassdoor source: https://www.glassdoor.com/Reviews/ADM-Reviews-E55.htm
+Indeed source: https://www.indeed.com/cmp/Adm-bde50235/reviews
+Comparably source: https://www.comparably.com/companies/adm",3.9,1494,3.5,1532,4.3,3835,,,,
+ANET,Arista Networks,Information Technology,Communications Equipment,"Santa Clara, California",2004,"Glassdoor source: https://www.glassdoor.com/Reviews/Arista-Networks-Reviews-E295128.htm
+Indeed source: https://www.indeed.com/cmp/Arista-Networks/reviews
+Comparably source: https://www.comparably.com/companies/arista-networks",4.2,802,4,41,4.8,6511,,,,
+T,AT&T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983 (1885),"Glassdoor source: https://www.glassdoor.com/Reviews/AT-and-T-Reviews-E613.htm
+Indeed source: https://www.indeed.com/cmp/AT&T/reviews
+Comparably source: https://www.comparably.com/companies/att",3.5,37791,3.7,46519,4.8,15235,,,,
+ADSK,Autodesk,Information Technology,Application Software,"San Francisco, California",1982,"Glassdoor source: https://www.glassdoor.com/Reviews/Autodesk-Reviews-E1155.htm
+Indeed source: https://www.indeed.com/cmp/Autodesk/reviews
+Comparably source: https://www.comparably.com/companies/autodesk",4.3,3689,4.1,551,4.3,4889,,,,
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,"Memphis, Tennessee",1979,"Glassdoor source: https://www.glassdoor.com/Reviews/AutoZone-Reviews-E610.htm
+Indeed source: https://www.indeed.com/cmp/Autozone/reviews
+Comparably source: https://www.comparably.com/companies/autozone",3.4,6252,3.4,15234,2.7,17336,,,,
+BBWI,"Bath & Body Works, Inc.",Consumer Discretionary,Other Specialty Retail,"Columbus, Ohio",1963,"Glassdoor source: https://www.glassdoor.com/Reviews/Bath-and-Body-Works-Reviews-E13902.htm
+Indeed source: https://www.indeed.com/cmp/Bath-&-Body-Works/reviews
+Comparably source: https://www.comparably.com/companies/bath-body-works",3.8,9494,3.8,"11,087",3.8,5598,,,,
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1966,"Glassdoor source: https://www.glassdoor.com/Reviews/Best-Buy-Reviews-E97.htm
+Indeed source: https://www.indeed.com/cmp/Best-Buy/reviews
+Comparably source: https://www.comparably.com/companies/best-buy",3.6,36851,3.8,"37,215",3.9,12107,,,,
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Norwalk, Connecticut",1996,"Glassdoor source: https://www.glassdoor.com/Reviews/Booking-Holdings-Reviews-E1398057.htm
+Indeed source: https://www.indeed.com/cmp/Booking.com/reviews
+Comparably source: https://www.comparably.com/companies/priceline-com",3.8,22,3.7,1096,2.5,369,,,,
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment,"Auburn Hills, Michigan",1880,"Glassdoor source: https://www.glassdoor.com/Reviews/BorgWarner-Reviews-E1652.htm
+Indeed source: https://www.indeed.com/cmp/Borgwarner/reviews
+Comparably source: https://www.comparably.com/companies/borgwarner",3.9,1052,3.7,"1,285",4.7,583,,,,
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,"Palo Alto, California",1961,"Glassdoor source: https://www.glassdoor.com/Reviews/Broadcom-Reviews-E6926.htm
+Indeed source: https://www.indeed.com/cmp/Broadcom/reviews
+Comparably source: https://www.comparably.com/companies/broadcom-limited",3.4,4105,3.8,872,3.4,2066,,,,
+BF.B,Brown–Forman,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1870,"Glassdoor source: https://www.glassdoor.com/Reviews/Brown-Forman-Reviews-E797.htm
+Indeed source: https://www.indeed.com/cmp/Brown--forman/reviews
+Comparably source: https://www.comparably.com/companies/brown-forman",4.3,548,3.7,170,4.2,378,,,,
+BG,Bunge Global SA,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",1818,"Glassdoor source: https://www.glassdoor.com/Reviews/Bunge-Limited-Reviews-E9013.htm
+Indeed source: https://www.indeed.com/cmp/Bunge/reviews
+Comparably source: https://www.comparably.com/companies/bunge",4,932,4.1,1496,4.5,549,,,,
+CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",1988,"Glassdoor source: https://www.glassdoor.com/Reviews/Cadence-Design-Systems-Reviews-E1217.htm
+Indeed source: https://www.indeed.com/cmp/Cadence-Design-Systems/reviews
+Comparably source: https://www.comparably.com/companies/cadence-design-systems",4.3,2253,4.2,235,4.1,436,,,,
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",1973,"Glassdoor source: https://www.glassdoor.com/Reviews/Caesars-Entertainment-Reviews-E367190.htm
+Indeed source: https://www.indeed.com/cmp/Caesars-Entertainment/reviews
+Comparably source: https://www.comparably.com/companies/caesars-entertainment",3.4,2985,3.7,5512,2.6,2005,,,,
+CPB,Campbell Soup Company,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1869,"Glassdoor source: https://www.glassdoor.com/Reviews/Campbell-s-Reviews-E129.htm
+Indeed source: https://www.indeed.com/cmp/Campbell's-7/reviews
+Comparably source: https://www.comparably.com/companies/campbell-soup-company",3.8,1203,3.7,846,2.5,1030,,,,
+KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",1993,"Glassdoor source: https://www.glassdoor.com/Reviews/CarMax-Reviews-E6561.htm
+Indeed source: https://www.indeed.com/cmp/Carmax/reviews
+Comparably source: https://www.comparably.com/companies/carmax",3.7,6884,3.5,6020,4.1,4942,,,,
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972,"Glassdoor source: https://www.glassdoor.com/Reviews/Carnival-Corporation-and-plc-Reviews-E806.htm
+Indeed source: https://www.indeed.com/cmp/Carnival-Cruise-Line/reviews
+Comparably source: https://www.comparably.com/companies/carnival-corporation",3.8,1111,4.1,2502,3,379,,,,
+CDW,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",1984,"Glassdoor source: https://www.glassdoor.com/Reviews/CDW-Reviews-E2347.htm
+Indeed source: https://www.indeed.com/cmp/Cdw/reviews
+Comparably source: https://www.comparably.com/companies/cdw-corporation",3.9,3731,3.7,1002,4,1544,,,,
+CHTR,Charter Communications,Communication Services,Cable & Satellite,"Stamford, Connecticut",1993,"Glassdoor source: https://www.glassdoor.com/Reviews/Spectrum-Reviews-E1500006.htm
+Indeed source: https://www.indeed.com/cmp/Spectrum-1/reviews
+Comparably source: https://www.comparably.com/companies/spectrum",3.3,14157,3.3,20026,2.7,10693,,,,
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,"Newport Beach, California",1993,"Glassdoor source: https://www.glassdoor.com/Reviews/Chipotle-Reviews-E15228.htm
+Indeed source: https://www.indeed.com/cmp/Chipotle-Mexican-Grill/reviews
+Comparably source: https://www.comparably.com/companies/chipotle",3.4,17533,3.5,17900,4.1,14505,,,,
+CHD,Church & Dwight,Consumer Staples,Household Products,"Ewing, New Jersey",1847,"Glassdoor source: https://www.glassdoor.com/Reviews/Church-and-Dwight-Reviews-E1254.htm
+Indeed source: https://www.indeed.com/cmp/Church-&-Dwight-Co./reviews
+Comparably source: https://www.comparably.com/companies/church-dwight-company",3.6,489,3.4,697,3.5,453,,,,
+CSCO,Cisco,Information Technology,Communications Equipment,"San Jose, California",1984,"Glassdoor source: https://www.glassdoor.com/Reviews/Cisco-Systems-Reviews-E1425.htm 
+Indeed source: https://www.indeed.com/cmp/Cisco-Systems-582836a8/reviews
+Comparably source: https://www.comparably.com/companies/cisco",4.3,28826,4.1,4357,4.4,12642,,,,
+CLX,Clorox,Consumer Staples,Household Products,"Oakland, California",1913,"Glassdoor source: https://www.glassdoor.com/Reviews/The-Clorox-Company-Reviews-E158.htm
+Indeed source: https://www.indeed.com/cmp/The-Clorox-Company/reviews
+Comparably source: https://www.comparably.com/companies/clorox-company/reviews",3.6,1301,3.9,915,4.2,319,,,,
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1886,"Glassdoor source: https://www.glassdoor.com/Reviews/The-Coca-Cola-Company-Reviews-E161.htm
+Indeed source: https://www.indeed.com/cmp/The-Coca--cola-Company/reviews 
+Comparably source: https://www.comparably.com/companies/the-coca-cola-company/reviews",4.1,6463,3.8,9243,3.7,10571,,,,
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",1994,"Glassdoor source: https://www.glassdoor.com/Reviews/Cognizant-Technology-Solutions-Reviews-E8014.htm
+Indeed source: https://www.indeed.com/cmp/Cognizant-Technology-Solutions/reviews
+Comparably source: https://www.comparably.com/companies/cognizant",3.8,97502,3.9,4354,3.2,9583,,,,
+CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1806,"Glassdoor source: https://www.glassdoor.com/Reviews/Colgate-Palmolive-Reviews-E162.htm
+Indeed source: https://www.indeed.com/cmp/Colgate--palmolive/reviews
+Comparably source:  https://www.comparably.com/companies/colgate-palmolive",4.2,2103,4.3,2683,4.6,1374,,,,
+CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",1963,"Glassdoor source: https://www.glassdoor.com/Reviews/Comcast-Reviews-E1280.htm
+Indeed source: https://www.indeed.com/cmp/Comcast/reviews
+https://www.comparably.com/companies/comcast
+Comparably source: https://www.comparably.com/companies/comcast",3.8,15507,3.6,18718,4,9923,,,,
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1919,"Glassdoor source: https://www.glassdoor.com/Reviews/Conagra-Brands-Reviews-E172.htm
+Indeed source: https://www.indeed.com/cmp/Conagra-Brands-2/reviews
+Comparably source: https://www.comparably.com/companies/conagra-brands/reviews",3.8,1686,3.5,1843,3.9,1184,,,,
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Victor, New York",1945,"Glassdoor source: https://www.glassdoor.com/Reviews/Constellation-Brands-Reviews-E805.htm
+Indeed source: https://www.indeed.com/cmp/Constellation-Brands/reviews
+Comparably source: https://www.comparably.com/companies/constellation-brands",4.2,520,3.8,278,3.8,639,,,,
+GLW,Corning Inc.,Information Technology,Electronic Components,"Corning, New York",1851,"Glassdoor source: https://www.glassdoor.com/Reviews/Corning-Reviews-E183.htm
+Indeed source: https://www.indeed.com/cmp/Corning-Incorporated/reviews
+Comparably source: https://www.comparably.com/companies/corning",3.7,1682,3.4,71,3.8,1223,,,,
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1976,"Glassdoor source: https://www.glassdoor.com/Reviews/Costco-Wholesale-Reviews-E2590.htm
+Indeed source: https://www.indeed.com/cmp/Costco-Wholesale/reviews
+Comparably source: https://www.comparably.com/companies/costco",3.9,15533,4,16458,4.7,21476,,,,
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,"Orlando, Florida",1938,"Glassdoor Source: https://www.glassdoor.com/Reviews/Darden-Reviews-E4160.htm
+Indeed source: https://www.indeed.com/cmp/Darden-Restaurants/reviews
+Comparably source: https://www.comparably.com/companies/darden-restaurants/reviews",3.9,2575,3.8,1881,3.7,2861,,,,
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",1939,"Glassdoor source:  https://www.glassdoor.com/Reviews/Dollar-General-Reviews-E1342.htm
+Indeed source: https://www.indeed.com/cmp/Dollar-General/reviews
+Comparably source: https://www.comparably.com/companies/dollar-general/reviews",2.7,13718,3,38463,2.6,40911,,,,
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",1986,"Glassdoor source: https://www.glassdoor.com/Reviews/Dollar-Tree-Reviews-E4033.htm
+Indeed source: https://www.indeed.com/cmp/Dollar-Tree/reviews
+Comparably source: https://www.comparably.com/companies/dollar-tree/reviews",3,8379,3.3,25428,2.9,26799,,,,
+DPZ,Domino's,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",1960,"Glassdoor source: https://www.glassdoor.com/Reviews/Domino-s-Reviews-E2770.htm
+Indeed source: https://www.indeed.com/cmp/Domino's/reviews
+Comparably source: https://www.comparably.com/companies/dominos-pizza",3.5,15628,3.4,36223,3.6,12808,,,,
+DHI,DR Horton,Consumer Discretionary,Homebuilding,"Arlington, Texas",1978,"Glassdoor source: https://www.glassdoor.com/Reviews/D-R-Horton-Reviews-E2195.htm
+Indeed source: https://www.indeed.com/cmp/D.r.-Horton/reviews
+Comparably source: https://www.comparably.com/companies/d-r-horton",3.7,911,3.4,696,4.2,960,,,,
+EBAY,eBay,Consumer Discretionary,Broadline Retail,"San Jose, California",1995,"Glassdoor source: https://www.glassdoor.com/Reviews/eBay-Reviews-E7853.htm
+Indeed source: https://www.indeed.com/cmp/Ebay/reviews
+Comparably source: https://www.comparably.com/companies/ebay",4,4834,4,2452,4.1,5538,,,,
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,"Redwood City, California",1982,"Glassdoor source: https://www.glassdoor.com/Reviews/Electronic-Arts-Reviews-E1628.htm
+Indeed source: https://www.indeed.com/cmp/Electronic-Arts/reviews
+Comparably source: https://www.comparably.com/companies/electronic-arts-e/reviews",4,3343,3.8,628,4,3654,,,,
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",2006,"Glassdoor source: https://www.glassdoor.com/Reviews/Enphase-Energy-Reviews-E370454.htm
+Indeed source: https://www.indeed.com/cmp/Enphase-Energy/reviews
+Comparably source: https://www.comparably.com/companies/enphase-energy/reviews",3.3,411,3.2,88,2.7,940,,,,
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",1993,"Glassdoor source: https://www.glassdoor.com/Reviews/EPAM-Systems-Reviews-E15544.htm
+Indeed source: https://www.indeed.com/cmp/Epam-Systems/reviews
+Comparably source: https://www.comparably.com/companies/epam-systems/reviews/compensation",4.1,6455,3.8,435,4.4,6793,,,,
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,"New York City, New York",1946,"Glassdoor source: https://www.glassdoor.com/Reviews/Est%C3%A9e-Lauder-Companies-Reviews-E2785.htm
+Indeed source: https://www.indeed.com/cmp/The-Est%C3%A9e-Lauder-Companies-1/reviews
+Comparably source: https://www.comparably.com/companies/estee-lauder-companies/reviews",3.8,3530,4,2530,4.5,3823,,,,
+ETSY,Etsy,Consumer Discretionary,Broadline Retail,"New York City, New York",2005,"Glassdoor source: https://www.glassdoor.com/Reviews/Etsy-Reviews-E42751.htm
+Indeed source: https://www.indeed.com/cmp/Etsy/reviews
+Comparably source: https://www.comparably.com/companies/etsy",4,397,4.3,130,3.6,1142,,,,
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Seattle, Washington",1996,"Glassdoor source: https://www.glassdoor.com/Reviews/Expedia-Group-Reviews-E9876.htm
+Indeed source: https://www.indeed.com/cmp/Expedia-Group/reviews
+Comparably source: https://www.comparably.com/companies/expedia/reviews",3.9,6341,3.8,1143,4,5919,,,,
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,"Seattle, Washington",1996,"Glassdoor source: https://www.glassdoor.com/Reviews/F5-Reviews-E9222.htm
+Indeed source: https://www.indeed.com/cmp/F5-8/reviews
+Comparably source: https://www.comparably.com/companies/f5-networks/reviews",3.9,1650,4,140,4.1,2133,,,,
+FICO,Fair Isaac,Information Technology,Application Software,"Bozeman, Montana",1956,"Glassdoor source: https://www.glassdoor.com/Reviews/FICO-Reviews-E1387.htm
+Indeed source: https://www.indeed.com/cmp/Fico/reviews
+Comparably source: https://www.comparably.com/companies/fico",4,1442,3.6,196,3.8,593,,,,
+FSLR,First Solar,Information Technology,Semiconductors,"Tempe, Arizona",1999,"Glassdoor source: https://www.glassdoor.com/Reviews/First-Solar-Reviews-E41703.htm
+Indeed source: https://www.indeed.com/cmp/First-Solar-1/reviews
+Comparably source: https://www.comparably.com/companies/first-solar",3.9,550,3.9,623,4.3,402,,,,
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1903,"Glassdoor source: https://www.glassdoor.com/Reviews/Ford-Motor-Company-Reviews-E263.htm
+Indeed source:  https://www.indeed.com/cmp/Ford-Motor-Company/reviews
+Comparably source: https://www.comparably.com/companies/ford-motor-company",4,9353,4.1,9148,3.5,7896,,,,
+FTNT,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",2000,"Glassdoor source: https://www.glassdoor.com/Reviews/Fortinet-Reviews-E23128.htm
+Indeed source: https://www.indeed.com/cmp/Fortinet/reviews
+Comparably source: https://www.comparably.com/companies/fortinet",4.1,2176,3.7,167,4.4,1840,,,,
+FOXA,Fox Corporation ,Communication Services,Broadcasting,"New York City, New York",2019,"(No available info on Fox Corporation Class A  & Fox Corporation Class B, so merged into single observation Fox Corporation) 
+
+Glassdoor source: https://www.glassdoor.com/Reviews/Fox-Corporation-Reviews-E2938629.htm
+Indeed source:  https://www.indeed.com/cmp/Fox-Corporation/reviews?start=120
+Comparably source: https://www.comparably.com/companies/fox",3.8,149,3.9,731,4.7,399,,,,
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",1989,"Glassdoor source: https://www.glassdoor.com/Reviews/Garmin-Reviews-E12667.htm
+Indeed source: https://www.indeed.com/cmp/Garmin/reviews
+Comparably source: https://www.comparably.com/companies/garmin-international",4,1441,3.7,372,4.6,918,,,,
+IT,Gartner,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",1979,"Glassdoor source: https://www.glassdoor.com/Reviews/Gartner-Reviews-E2465.htm
+Indeed source: https://www.indeed.com/cmp/Gartner/reviews
+Comparably source: https://www.comparably.com/companies/gartner",4.1,7207,3.7,649,4.5,6581,,,,
+GEN,Gen Digital,Information Technology,Systems Software,"Tempe, Arizona",1982,"(Gen Digital, formerly NortonLifeLock & Symantec. Sources found under Symantec Corp.)
+
+Glassdoor source: https://www.glassdoor.com/Reviews/Symantec-Reviews-E3308959.htm
+Indeed source: https://www.indeed.com/cmp/Symantec-Broadcom/reviews
+Comparably source: https://www.comparably.com/companies/symantec",3.9,613,3.4,8,3.2,1388,,,,
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1856,"Glassdoor source: https://www.glassdoor.com/Reviews/General-Mills-Reviews-E278.htm
+Indeed source: https://www.indeed.com/cmp/General-Mills/reviews
+Comparably source: https://www.comparably.com/companies/general-mills-in",4.1,3369,3.9,2909,4.5,4222,,,,
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",1908,"Glassdoor source: https://www.glassdoor.com/Reviews/General-Motors-GM-Reviews-E279.htm
+Indeed source: https://www.glassdoor.com/Reviews/General-Motors-GM-Reviews-E279.htm
+Comparably source: https://www.comparably.com/companies/general-motors",3.9,9340,4,10582,3.5,10750,,,,
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,"Atlanta, Georgia",1925,"Glassdoor source: https://www.glassdoor.com/Reviews/Genuine-Parts-Company-Reviews-E282.htm
+Indeed source: https://www.indeed.com/cmp/Genuine-Parts-Company/reviews
+Comparably source: https://www.comparably.com/companies/genuine-parts-company",3.3,422,3.4,310,3.3,473,,,,
+HAS,Hasbro,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1923,"Glassdoor source: https://www.glassdoor.com/Reviews/Hasbro-Reviews-E890.htm
+Indeed source: https://www.indeed.com/cmp/Hasbro,-Inc./reviews
+Comparably source: https://www.comparably.com/companies/hasbro",3.5,866,4.1,656,4.5,766,,,,
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1894,"Glassdoor source: https://www.glassdoor.com/Reviews/The-Hershey-Company-Reviews-E326.htm
+Indeed source: https://www.indeed.com/cmp/The-Hershey-Company/reviews
+Comparably source: https://www.comparably.com/companies/hershey-company",3.8,1525,3.7,973,4.2,1586,,,,
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015,"Glassdoor source: https://www.glassdoor.com/Reviews/Hewlett-Packard-Enterprise-HPE-Reviews-E1093046.htm
+Indeed source: https://www.indeed.com/cmp/Hewlett-Packard-Enterprise-Hpe-3
+Comparably source: https://www.comparably.com/companies/hpe",4.1,15057,3.8,2560,3.1,5853,,,,
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",1919,"Glassdoor source: https://www.glassdoor.com/Reviews/Hilton-Reviews-E330.htm
+Indeed source: https://www.indeed.com/cmp/Hilton/reviews
+Comparably source: https://www.comparably.com/companies/hilton",4,9749,4,11470,3.2,12029,,,,
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1978,"Glassdoor source: https://www.glassdoor.com/Overview/Working-at-The-Home-Depot-EI_IE655.11,25.htm
+Indeed source: https://www.indeed.com/cmp/The-Home-Depot/reviews
+Comparably source: https://www.comparably.com/companies/the-home-depot",3.8,47939,3.7,64345,4.3,49060,,,,
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",1891,"Glassdoor source: https://www.glassdoor.com/Reviews/Hormel-Reviews-E877.htm
+Indeed source: https://www.indeed.com/cmp/Hormel-Foods/reviews
+Comparably source: https://www.comparably.com/companies/hormel-foods",3.6,587,3.5,523,4.2,697,,,,
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1939 (2015),"Glassdoor source: https://www.glassdoor.com/Reviews/HP-Inc-Reviews-E1093161.htm
+Indeed source: https://www.indeed.com/cmp/HP/reviews
+Comparably source: https://www.comparably.com/companies/hp",4.1,7517,4,6205,4.3,4548,,,,
+IBM,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1911,"Glassdoor source: https://www.glassdoor.com/Reviews/IBM-Reviews-E354.htm
+Indeed source: https://www.indeed.com/cmp/IBM/reviews
+Comparably source: https://www.comparably.com/companies/ibm",4.1,93195,3.9,12162,4.7,90812,,,,
+INTC,Intel,Information Technology,Semiconductors,"Santa Clara, California",1968,"Glassdoor source: https://www.glassdoor.com/Reviews/Intel-Corporation-Reviews-E1519.htm
+Indeed source: https://www.indeed.com/cmp/Intel-Corporation/reviews
+Comparably source: https://www.comparably.com/companies/intel",4.1,25478,4.1,4499,3.9,9946,,,,
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,"New York City, New York",1961 (1930),"Glassdoor source: https://www.glassdoor.com/Reviews/IPG-Reviews-E1065414.htm
+Indeed source: https://www.indeed.com/cmp/Interpublic-Group/reviews
+Comparably source: https://www.comparably.com/companies/interpublic-group-of-companies",3.6,31,3.7,158,4.2,151,,,,
+INTU,Intuit,Information Technology,Application Software,"Mountain View, California",1983,"Glassdoor source: https://www.glassdoor.com/Reviews/Intuit-Reviews-E2293.htm
+Indeed source: https://www.indeed.com/cmp/Intuit/reviews
+Comparably source: https://www.comparably.com/companies/intuit",4.4,8827,4.2,1918,4.6,3688,,,,
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,"St. Petersburg, Florida",1966,"Glassdoor source: https://www.glassdoor.com/Reviews/Jabil-Reviews-E2330.htm
+Indeed source: https://www.indeed.com/cmp/Jabil-Inc/reviews
+Comparably source: https://www.comparably.com/companies/jabil",3.8,2290,3.9,1630,4.5,1567,,,,
+JNPR,Juniper Networks,Information Technology,Communications Equipment,"Sunnyvale, California",1996,"Glassdoor source: https://www.glassdoor.com/Reviews/Juniper-Networks-Reviews-E7224.htm
+Indeed source: https://www.indeed.com/cmp/Juniper-Networks/reviews
+Comparably source: https://www.comparably.com/companies/juniper-networks",4.2,4028,4,314,4.5,1932,,,,
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1906,"Glassdoor source: https://www.glassdoor.com/Reviews/Kellanova-Reviews-E377.htm
+Indeed source: 
+Comparably source: ",3.8,2739,3.6,2248,,,,,,
+KVUE,Kenvue,Consumer Staples,Personal Care Products,"Skillman, New Jersey",2022 (Johnson & Johnson spinoff),"Glassdoor source: https://www.glassdoor.com/Reviews/Kenvue-Reviews-E8265614.htm
+Indeed source: https://www.indeed.com/cmp/Kenvue-1/reviews?fcountry=ALL
+Comparably source: ",3.7,161,3.5,28,,,,,,
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",1981,"Glassdoor source: https://www.glassdoor.com/Reviews/Keurig-Dr-Pepper-Reviews-E2134135.htm
+Indeed source: https://www.indeed.com/cmp/Keurig-Dr-Pepper/reviews
+Comparably source: https://www.comparably.com/companies/keurig-dr-pepper",3.4,1471,3.1,3861,4,3906,,,,
+KEYS,Keysight,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2014 (1939),"Glassdoor source: https://www.glassdoor.com/Reviews/Keysight-Technologies-Reviews-E877317.htm
+Indeed source: https://www.indeed.com/cmp/Keysight-Technologies/reviews
+Comparably source: https://www.comparably.com/companies/keysight-technologies",4,1647,3.9,179,4.6,2899,,,,
+KMB,Kimberly-Clark,Consumer Staples,Household Products,"Irving, Texas",1872,"Glassdoor source: https://www.glassdoor.com/Reviews/Kimberly-Clark-Reviews-E383.htm
+Indeed source: https://www.indeed.com/cmp/Kimberly--clark/reviews
+Comparably source: https://www.comparably.com/companies/kimberly-clark",4.1,2582,4.1,1564,4.2,1527,,,,
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",1975/1977 (1997),"Glassdoor source: https://www.glassdoor.com/Reviews/KLA-Reviews-E1557.htm
+Indeed source: https://www.indeed.com/cmp/Kla--tencor/reviews
+Comparably source: https://www.comparably.com/companies/kla-tencor",4.1,1538,3.9,228,4.5,476,,,,
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015 (1869),"Glassdoor source: https://www.glassdoor.com/Reviews/Kraft-Heinz-Reviews-E1026712.htm
+Indeed source: https://www.indeed.com/cmp/Kraft-Heinz-3e502a27/reviews
+Comparably source: https://www.comparably.com/companies/the-kraft-heinz-company",3.5,5156,3.5,3786,2.5,4127,,,,
+KR,Kroger,Consumer Staples,Food Retail,"Cincinnati, Ohio",1883,"Glassdoor source: https://www.glassdoor.com/Reviews/Kroger-Reviews-E386.htm
+Indeed source: https://www.indeed.com/cmp/Kroger-54356a75/reviews
+Comparably source: https://www.comparably.com/companies/kroger",3.2,20919,3.3,38138,2.6,35885,,,,
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",1980,"Glassdoor source: https://www.glassdoor.com/Reviews/Lam-Research-Reviews-E1582.htm
+Indeed source: https://www.indeed.com/cmp/Lam-Research/reviews
+Comparably source: https://www.comparably.com/companies/lam-research",4,1869,3.7,578,3.9,925,,,,
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2016 (1950),"Glassdoor source: https://www.glassdoor.com/Reviews/Lamb-Weston-Reviews-E911897.htm
+Indeed source: https://www.indeed.com/cmp/Lamb-Weston/reviews
+Comparably source: ",3.8,291,3.4,388,,,,,,
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",1988,"Glassdoor source: https://www.glassdoor.com/Reviews/Las-Vegas-Sands-Reviews-E12171.htm
+Indeed source: https://www.indeed.com/cmp/Las-Vegas-Sands-Corp./reviews
+Comparably source: https://www.comparably.com/companies/las-vegas-sands",3.4,171,3.4,91,3.9,116,,,,
+LEN,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",1954,"Glassdoor source: https://www.glassdoor.com/Reviews/Lennar-Reviews-E400.htm
+Indeed source: https://www.indeed.com/cmp/Lennar-e9dbb56c/reviews
+Comparably source: https://www.comparably.com/companies/lennar-corporation",3.7,947,3.4,682,2.4,459,,,,
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",2010,"Glassdoor source: https://www.glassdoor.com/Reviews/Live-Nation-Entertainment-Reviews-E7601.htm
+Indeed source: https://www.indeed.com/cmp/Live-Nation/reviews
+Comparably source: https://www.comparably.com/companies/live-nation-entertainment",4,1799,4.1,1197,3.2,1972,,,,
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,"Chicago, Illinois",1998,"Glassdoor source: https://www.glassdoor.com/Reviews/LKQ-Reviews-E20395.htm
+Indeed source: https://www.indeed.com/cmp/Lkq-Corporation/reviews
+Comparably source: https://www.comparably.com/companies/lkq-corporation",3.8,1104,3,1789,2.8,4268,,,,
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1904/1946/1959,"Glassdoor source: https://www.glassdoor.com/Reviews/Lowe-s-Home-Improvement-Reviews-E415.htm
+Indeed source: https://www.indeed.com/cmp/Lowe's-Home-Improvement/reviews
+Comparably source: https://www.comparably.com/companies/lowe-s",3.5,41347,3.4,55269,3.2,10382,,,,
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Vancouver, Canada",1998,"Glassdoor source: https://www.glassdoor.com/Reviews/lululemon-Reviews-E42589.htm
+Indeed source: https://www.indeed.com/cmp/Lululemon-e2ea86c4/reviews
+Comparably source: https://www.comparably.com/companies/lululemon",4.2,7743,4.1,1049,4.3,2108,,,,
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1927,"Glassdoor source: https://www.glassdoor.com/Reviews/Marriott-International-Reviews-E7790.htm
+Indeed source: https://www.indeed.com/cmp/Marriott-International/reviews
+Comparably source: https://www.comparably.com/companies/marriott",4,16163,4,18492,3.8,19033,,,,
+MTCH,Match Group,Communication Services,Interactive Media & Services,"Dallas, Texas",1986,"Glassdoor source: https://www.glassdoor.com/Reviews/Match-Reviews-E15905.htm
+Indeed source: https://www.indeed.com/cmp/Match-Group/reviews?start=20
+Comparably source: https://www.comparably.com/companies/match-group",4,185,3.1,29,4.5,226,,,,
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",1889,"Glassdoor source: https://www.glassdoor.com/Reviews/McCormick-and-Company-Reviews-E1627.htm
+Indeed source: https://www.indeed.com/cmp/Mccormick-&-Company/reviews
+Comparably source: https://www.comparably.com/companies/mccormick-company",3.7,655,3.6,397,3.8,1128,,,,
+MCD,McDonald's,Consumer Discretionary,Restaurants,"Chicago, Illinois",1940,"Glassdoor source: https://www.glassdoor.com/Reviews/McDonald-s-Reviews-E432.htm
+Indeed source: https://www.indeed.com/cmp/McDonald's/reviews
+Comparably source: https://www.comparably.com/companies/mcdonalds",3.6,109599,3.5,147702,3,67628,,,,
+META,Meta Platforms,Communication Services,Interactive Media & Services,"Menlo Park, California",2004,"Glassdoor source: https://www.glassdoor.com/Reviews/Meta-Reviews-E40772.htm
+Indeed source: https://www.indeed.com/cmp/Meta-dd1502f2/reviews
+Comparably source: https://www.comparably.com/companies/meta",3.9,8674,4.1,557,4.6,45064,,,,
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",1986,"Glassdoor source: https://www.glassdoor.com/Reviews/MGM-Resorts-International-Reviews-E1260.htm
+Indeed source: https://www.indeed.com/cmp/Mgm-Resorts-International/reviews
+Comparably source: https://www.comparably.com/companies/mgm-resorts-international",3.8,2122,3.9,2332,3.9,1499,,,, 
+MCHP,Microchip Technology,Information Technology,Semiconductors,"Chandler, Arizona",1989,"Glassdoor source: https://www.glassdoor.com/Reviews/Microchip-Technology-Reviews-E2298.htm
+Indeed source: https://www.indeed.com/cmp/Microchip-Technology/reviews
+Comparably source: https://www.comparably.com/companies/microchip-technology",4,1933,3.6,304,3.9,1184,,,,
+MU,Micron Technology,Information Technology,Semiconductors,"Boise, Idaho",1978,"Glassdoor source: https://www.glassdoor.com/Reviews/Micron-Technology-Reviews-E1648.htm
+Indeed source: https://www.indeed.com/cmp/Micron-Technology,-Inc./reviews
+Comparably source: https://www.comparably.com/companies/micron-technology",3.7,6186,3.7,1029,4.1,2583,,,,
+MSFT,Microsoft,Information Technology,Systems Software,"Redmond, Washington",1975,"Glassdoor: https://www.glassdoor.com/Reviews/Microsoft-Reviews-E1651.htm, Indeed: https://www.indeed.com/cmp/Microsoft/reviewshttps://www.comparably.com/companies/microsoft/competitors",4.3,42895,4.2,5506,4.1,52893,,,,
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",1878,"https://www.glassdoor.com/Reviews/Mohawk-Industries-Reviews-E1644.htm, Indeed: https://www.indeed.com/cmp/Mohawk-Industries/reviews?start=480, Comparably: https://www.comparably.com/companies/mohawk-industries/competitors#",3.6,956,3.5,1629,3.2,776,,,,
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,"Chicago, Illinois","2005 (Molson 1786, Coors 1873)","https://www.glassdoor.com/Reviews/Molson-Coors-Beverage-Company-Reviews-E1091.htm, https://www.indeed.com/companies/search?q=Molson+Coors+Beverage+Company, https://www.comparably.com/companies/molson-coors",3.9,1714,3.7,1047,3.6,588,,,,
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012,"https://www.glassdoor.com/Reviews/Mondelēz-International-Reviews-E628257.htm, https://www.indeed.com/companies/search?q=mondelez+international, https://www.comparably.com/companies/mondelez-international",4,4026,3.9,5693,4.6,4781,,,,
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,"Kirkland, Washington",1997,"https://www.glassdoor.com/Search/results.htm?keyword=Monolithic%20Power%20Systems&locId=1&locT=N&locName=United%20States, https://www.indeed.com/companies/search?q=Monolithic+Power+Systems, https://www.comparably.com/companies/monolithic-power-systems",4.3,58,3.9,9,,,,,,
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012 (1935),"https://www.glassdoor.com/Overview/Working-at-Monster-Beverage-Corporation-EI_IE333508.11,39.htm, https://www.indeed.com/companies/search?, q=Monster+Beverage, https://www.comparably.com/companies/monster-beverage",3.8,508,4,275,,,,,,
+MSI,Motorola Solutions,Information Technology,Communications Equipment,"Chicago, Illinois",1928 (2011),"https://www.glassdoor.com/Reviews/Motorola-Solutions-Reviews-E427189.htm, https://www.indeed.com/cmp/Motorola-Solutions, https://www.comparably.com/search?q=",4.1,3630,4.1,3180,3.5,348,,,,
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1992,"https://www.glassdoor.com/Overview/Working-at-NetApp-EI_IE5406.11,17.htm, https://www.indeed.com/companies/search?q=NetApp, https://www.comparably.com/companies/netapp",4,5232,4.1,810,4.3,3123,,,,
+NFLX,Netflix,Communication Services,Movies & Entertainment,"Los Gatos, California",1997,"https://www.glassdoor.com/Overview/Working-at-Netflix-EI_IE11891.11,18.htm, https://www.indeed.com/companies/search?q=Netflix, https://www.comparably.com/companies/netflix",4.2,2798,3.9,782,4.6,4165,,,,
+NWSA,News Corp (Class A),Communication Services,Publishing,"New York City, New York",2013 (News Corporation 1980),"https://www.glassdoor.com/Overview/Working-at-News-Corp-EI_IE3493.11,20.htm, https://www.indeed.com/cmp/News-Corp-1, https://www.comparably.com/companies/news-corp",3.6,894,3.6,811,4.5,379,,,,
+NWS,News Corp (Class B),Communication Services,Publishing,"New York City, New York",2013 (News Corporation 1980),"https://www.glassdoor.com/Overview/Working-at-News-Corp-EI_IE3493.11,20.htm, https://www.indeed.com/cmp/News-Corp-1, https://www.comparably.com/companies/news-corp",3.6,894,3.6,811,4.5,379,,,,
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1964,"https://www.glassdoor.com/Reviews/NIKE-Reviews-E1699.htm, https://www.indeed.com/cmp/Nike, https://www.comparably.com/companies/nike",4.1,10999,4.1,12191,4.1,12486,,,,
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2011 (1966),"https://www.glassdoor.com/Overview/Working-at-Norwegian-Cruise-Line-Holdings-Ltd-EI_IE9937.11,45.htm, https://www.indeed.com/cmp/Norwegian-Cruise-Line-Holdings-Ltd, https://www.comparably.com/companies/norwegian-cruise-line-holdings-lt",3.6,1664,3.8,1793,2.8,201,,,,
+NVDA,Nvidia,Information Technology,Semiconductors,"Santa Clara, California",1993,"https://www.glassdoor.com/Overview/Working-at-NVIDIA-EI_IE7633.11,17.htm, https://www.indeed.com/companies/search?q=Nvidia, https://www.comparably.com/companies/nvidia",4.6,5492,4.2,288,4.6,4073,,,,
+NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,"Reston, Virginia",1980,"https://www.glassdoor.com/Overview/Working-at-NVR-EI_IE954.11,14.htm, https://www.indeed.com/cmp/Nvr,-Inc/reviews, https://www.comparably.com/companies/nvr",3.6,507,3.3,455,4.1,597,,,,
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,"Eindhoven, Netherlands",1953,"https://www.glassdoor.com/Overview/Working-at-NXP-Semiconductors-EI_IE13528.11,29.htm, https://www.indeed.com/cmp/Nxp-Semiconductors/reviews, https://www.comparably.com/companies/nxp-semiconductors",4.1,2713,3.9,580,4,3726,,,,
+ORLY,O'Reilly Auto Parts,Consumer Discretionary,Automotive Retail,"Springfield, Missouri",1957,"https://www.glassdoor.com/Overview/Working-at-O-Reilly-Auto-Parts-EI_IE2328.11,30.htm, https://www.indeed.com/companies/search?q=O%27Reilly+Auto+Parts, https://www.comparably.com/companies/o-reilly-auto-parts",3.3,4121,3.3,9732,3.1,8977,,,,
+OMC,Omnicom Group,Communication Services,Advertising,"New York City, New York",1986,"https://www.glassdoor.com/Overview/Working-at-Omnicom-Group-EI_IE1734.11,24.htm, https://www.indeed.com/cmp/Omnicom-Group, https://www.comparably.com/companies/omnicom-media-group",3.5,329,3.7,283,3.8,1069,,,,
+ON,ON Semiconductor,Information Technology,Semiconductors,"Phoenix, Arizona",1999,"https://www.glassdoor.com/Interview/ON-Semiconductor-Applications-Engineer-Interview-Questions-EI_IE8954767.0,16_KO17,38.htm#InterviewReview_78929246, https://www.indeed.com/companies/search?q=ON+Semiconductor, https://www.comparably.com/companies/on-semiconductor",2,31,3.8,755,4.1,304,,,,
+ORCL,Oracle Corporation,Information Technology,Application Software,"Austin, Texas",1977,"https://www.glassdoor.com/Overview/Working-at-Oracle-EI_IE1737.11,17.htm, https://www.indeed.com/cmp/Oracle, https://www.comparably.com/companies/oracle",3.8,53235,3.8,7135,3,19032,,,,
+PANW,Palo Alto Networks,Information Technology,Systems Software,"Santa Clara, California",2005,"https://www.glassdoor.com/Overview/Working-at-Palo-Alto-Networks-EI_IE115142.11,29.htm, https://www.indeed.com/cmp/Palo-Alto-Networks/reviews, https://www.comparably.com/companies/palo-alto-networks",4.1,2214,3.8,127,4.8,8379,,,,
+PARA,Paramount Global,Communication Services,Movies & Entertainment,"New York City, New York",2019 (Paramount Pictures 1912),"https://www.glassdoor.com/Overview/Working-at-Paramount-Global-EI_IE3243667.11,27.htm, https://www.indeed.com/cmp/Paramount-66ac57f4/reviews?fcountry=ALL, https://www.comparably.com/companies/paramount-pictures",3.6,10,3.9,2018,3.3,411,,,,
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1898,"https://www.glassdoor.com/Overview/Working-at-PepsiCo-EI_IE522.11,18.htm, https://www.indeed.com/cmp/PepsiCo/reviews, https://www.comparably.com/companies/pepsico",4,20511,3.7,19758,3.9,11145,,,,
+PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York",2008 (1847),"https://www.glassdoor.com/Overview/Working-at-Philip-Morris-International-EI_IE7745.11,38.htm, https://www.indeed.com/cmp/Philip-Morris-International/reviews, https://www.comparably.com/companies/philip-morris-international",4.1,5163,4.2,1945,4.5,1125,,,,
+POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",1993,"https://www.glassdoor.com/Reviews/POOLCORP-Reviews-E486524.htm, https://www.indeed.com/cmp/Poolcorp, https://www.comparably.com/companies/pool-corporation",3.6,396,3.2,297,,,,,,
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1837,"https://www.glassdoor.com/Overview/Working-at-Procter-and-Gamble-EI_IE544.11,29.htm, https://www.indeed.com/cmp/Procter-&-Gamble/reviews, https://www.comparably.com/companies/procter-gamble",4.1,17411,4.1,7929,3.8,5652,,,,
+PTC,PTC,Information Technology,Application Software,"Boston, Massachusetts",1985,"https://www.glassdoor.com/Overview/Working-at-PTC-EI_IE1855.11,14.htm, https://www.indeed.com/cmp/Ptc-c5e4d329, https://www.comparably.com/companies/ptc",4.2,2687,3.7,229,4.2,900,,,,
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1956,"https://www.glassdoor.com/Overview/Working-at-PulteGroup-EI_IE506.11,21.htm, https://www.indeed.com/cmp/Pultegroup,-Inc/reviews, https://www.comparably.com/companies/pulte-group",4,862,3.7,592,3.7,786,,,,
+QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015,"https://www.glassdoor.com/Overview/Working-at-Qorvo-EI_IE942369.11,16.htm, https://www.indeed.com/cmp/Qorvo, https://www.comparably.com/companies/qorvo",3.8,564,3.6,306,4.6,154,,,,
+QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1985,"https://www.glassdoor.com/Overview/Working-at-Qualcomm-EI_IE640.11,19.htm, https://www.indeed.com/cmp/Qualcomm/reviews, https://www.comparably.com/companies/qualcomm-incorporated",4,10594,4,1704,4.1,2578,,,,
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",1967,"https://www.glassdoor.com/Overview/Working-at-Ralph-Lauren-EI_IE2937.11,23.htm, https://www.indeed.com/cmp/Ralph-Lauren, https://www.comparably.com/companies/ralph-lauren-corporation",3.9,4250,3.8,3379,2.9,1787,,,,
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",1981,"https://www.glassdoor.com/Overview/Working-at-Roper-Technologies-EI_IE930.11,29.htm,https://www.indeed.com/cmp/Roper-Technologies,-Inc, https://www.comparably.com/companies/roper-technologies",3.8,43,3.8,6,,,,,,
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,"Dublin, California",1982,"https://www.glassdoor.com/Overview/Working-at-Ross-Stores-EI_IE1843.11,22.htm, https://www.indeed.com/cmp/Ross-Dress-For-Less, https://www.comparably.com/companies/ross-stores",3.2,10053,3.3,17324,2.9,10248,,,,
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1997,"(Comparably for international) https://www.glassdoor.com/Overview/Working-at-Royal-Caribbean-Group-EI_IE3579.11,32.htm
+ https://www.indeed.com/cmp/Royal-Caribbean-Group-3
+ https://www.comparably.com/companies/royal-caribbean-international",3.9,2839,4.2,2564,4.7,1808,,,,
+CRM,Salesforce,Information Technology,Application Software,"San Francisco, California",1999,"https://www.glassdoor.com/Overview/Working-at-Salesforce-EI_IE11159.11,21.htm
+https://www.indeed.com/cmp/Salesforce
+https://www.comparably.com/companies/salesforce",4.1,19584,4.3,1167,4.6,7793,,,,
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",1979,"https://www.glassdoor.com/Overview/Working-at-Seagate-Technology-EI_IE1864.11,29.htm
+https://www.indeed.com/cmp/Seagate-Technology/reviews
+https://www.comparably.com/companies/seagate-technology",3.6,3021,3.8,880,2.5,1731,,,,
+NOW,ServiceNow,Information Technology,Systems Software,"Santa Clara, California",2003,"Glassdoor source: https://www.glassdoor.com/Reviews/ServiceNow-Reviews-E403326.htm
+Indeed source: https://www.indeed.com/cmp/Servicenow/reviews
+Comparably source: https://www.comparably.com/companies/servicenow-the-enterprise-cloud-company",4.4,3915,3.7,248,4.6,3882,,,,
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,"Irvine, California",2002,"Glassdoor source: https://www.glassdoor.com/Reviews/Skyworks-Solutions-Reviews-E762.htm
+Indeed source: https://www.indeed.com/cmp/Skyworks-Solutions/reviews
+Comparably source: https://www.comparably.com/companies/skyworks-solutions",3.6,502,3.8,323,4.1,207,,,,
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",1897,"Glassdoor source: https://www.glassdoor.com/Reviews/The-J-M-Smucker-Co-Reviews-E362.htm
+Indeed source: https://www.indeed.com/cmp/The-J.-M.-Smucker-Company/reviews
+Comparably source: https://www.comparably.com/companies/j-m-smucker-company",3.6,803,3.5,610,4.5,860,,,,
+SBUX,Starbucks,Consumer Discretionary,Restaurants,"Seattle, Washington",1971,"Glassdoor source: https://www.glassdoor.com/Reviews/Starbucks-Reviews-E2202.htm
+Indeed source: https://www.indeed.com/cmp/Starbucks/reviews
+Comparably source: https://www.comparably.com/companies/starbucks",3.6,67851,3.8,65742,4.2,24242,,,,
+SNPS,Synopsys,Information Technology,Application Software,"Sunnyvale, California",1986,"Glassdoor source: https://www.glassdoor.com/Reviews/Synopsys-Reviews-E2143.htm
+Indeed source: https://www.indeed.com/cmp/Synopsys/reviews
+Comparably source: https://www.comparably.com/companies/synopsys-inc",4,3371,4.1,311,4.7,37112,,,,
+SYY,Sysco,Consumer Staples,Food Distributors,"Houston, Texas",1969,"Glassdoor source: https://www.glassdoor.com/Reviews/Sysco-Reviews-E634.htm
+Indeed source: https://www.indeed.com/cmp/Sysco/reviews
+Comparably source: https://www.comparably.com/companies/sysco",3.3,3962,3.2,6380,3.6,4089,,,,
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",1994,"Glassdoor source: https://www.glassdoor.com/Reviews/T-Mobile-Reviews-E9302.htm
+Indeed source: https://www.indeed.com/cmp/T--Mobile/reviews
+Comparably source: https://www.comparably.com/companies/t-mobile",3.7,19869,3.7,27600,4.4,20297,,,,
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,"New York City, New York",1993,"Glassdoor source: https://www.glassdoor.com/Reviews/Take-Two-Reviews-E7413.htm
+Indeed source: https://www.indeed.com/cmp/Take--two-Interactive-Software,-Inc./reviews
+Comparably source: https://www.comparably.com/companies/take-two-interactive-software",3.8,164,3.6,14,3.7,245,,,,
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2017,"(Comparably only had subsidiary data available)
+
+Glassdoor source: https://www.glassdoor.com/Reviews/Tapestry-Reviews-E2104316.htm
+Indeed source: https://www.indeed.com/cmp/Tapestry-728c0b6e/reviews
+Comparably source: https://www.comparably.com/companies/coach",4,334,3.9,66,4.5,1432,,,,
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",1902,"Glassdoor source: https://www.glassdoor.com/Reviews/Target-Reviews-E194.htm
+Indeed source: https://www.indeed.com/cmp/Target/reviews
+Comparably source: https://www.comparably.com/companies/target",3.5,79851,3.5,72955,3.7,51404,,,,
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2007,"Glassdoor source: https://www.glassdoor.com/Reviews/TE-Connectivity-Reviews-E18055.htm
+Indeed source: https://www.indeed.com/cmp/Te-Connectivity/reviews
+Comparably source: https://www.comparably.com/companies/te-connectivity",3.7,2566,3.7,2218,4.2,2454,,,,
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,"Thousand Oaks, California",1960,"Glassdoor source: https://www.glassdoor.com/Reviews/Teledyne-Technologies-Reviews-E9818.htm
+Indeed source: https://www.indeed.com/cmp/Teledyne/reviews
+Comparably source: https://www.comparably.com/companies/teledyne-technologies",3.4,886,3.5,935,2.5,428,,,,
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",1960,"Glassdoor source: https://www.glassdoor.com/Reviews/Teradyne-Reviews-E647.htm
+Indeed source: https://www.indeed.com/cmp/Teradyne/reviews
+Comparably source: https://www.comparably.com/companies/teradyne",4.2,496,4.2,223,4.6,388,,,,
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2003,"Glassdoor source: https://www.glassdoor.com/Reviews/Tesla-Reviews-E43129.htm
+Indeed source: https://www.indeed.com/cmp/Tesla/reviews
+Comparably source: https://www.comparably.com/companies/tesla-motors",3.6,8234,3.4,7015,4.1,9199,,,,
+TXN,Texas Instruments,Information Technology,Semiconductors,"Dallas, Texas",1930,"Glassdoor source: https://www.glassdoor.com/Reviews/Texas-Instruments-Reviews-E651.htm
+Indeed source: https://www.indeed.com/cmp/Texas-Instruments/reviews
+Comparably source: https://www.comparably.com/companies/texas-instruments",4.1,4574,4.1,1932,3.9,2691,,,,
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1987,"Glassdoor source: https://www.glassdoor.com/Reviews/The-TJX-Companies-Inc-Reviews-E639.htm
+Indeed source: https://www.indeed.com/cmp/The-TJX-Companies,-Inc./reviews
+Comparably source: https://www.comparably.com/companies/tjx-companies",3.7,4955,3.6,6494,3.2,7481,,,,
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,"Brentwood, Tennessee",1938,"Glassdoor source: https://www.glassdoor.com/Reviews/Tractor-Supply-Reviews-E2602.htm
+Indeed source: https://www.indeed.com/cmp/Tractor-Supply-d32bb989/reviews
+Comparably source: https://www.comparably.com/companies/tractor-supply-company",3.6,3363,3.4,5912,2.9,10041,,,,
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",1978,"Glassdoor source: https://www.glassdoor.com/Reviews/Trimble-Reviews-E2067.htm
+Indeed source: https://www.indeed.com/cmp/Trimble/reviews
+Comparably source: https://www.comparably.com/companies/trimble",4.1,1290,3.7,334,4.7,36110,,,,
+TYL,Tyler Technologies,Information Technology,Application Software,"Plano, Texas",1966,"Glassdoor source: https://www.glassdoor.com/Reviews/Tyler-Technologies-Reviews-E682.htm
+Indeed source: https://www.indeed.com/cmp/Tyler-Technologies-29572f8d/reviews
+Comparably source: https://www.comparably.com/companies/giant-creative-strategy",4,1118,3.5,308,3.3,90,,,,
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",1935,"Glassdoor source: https://www.glassdoor.com/Reviews/Tyson-Foods-Reviews-E1975.htm
+Indeed source: https://www.indeed.com/cmp/Tyson-Foods-Incorporated/reviews
+Comparably source: https://www.comparably.com/companies/tyson-foods",3.5,2694,3.6,10582,3.6,11337,,,,
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,"Bolingbrook, Illinois",1990,"Glassdoor source: https://www.glassdoor.com/Reviews/Ulta-Beauty-Reviews-E9466.htm
+Indeed source: https://www.indeed.com/cmp/Ulta/reviews
+Comparably source: https://www.comparably.com/companies/ulta-beauty",3.5,11565,3.3,10293,3.1,10359,,,,
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",1995,"Glassdoor source: https://www.glassdoor.com/Reviews/Verisign-Reviews-E7492.htm
+Indeed source: https://www.indeed.com/cmp/Verisign/reviews
+Comparably source: https://www.comparably.com/companies/verisign",4.1,394,4,61,2.9,288,,,,
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983 (1877),"Glassdoor source: https://www.glassdoor.com/Reviews/Verizon-Reviews-E89.htm
+Indeed source: https://www.indeed.com/cmp/Verizon/reviews
+Comparably source: https://www.comparably.com/companies/verizon",3.8,32086,3.8,"32,684",3.8,18308,,,,
+VFC,VF Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1899,"Glassdoor source: https://www.glassdoor.com/Reviews/VF-Reviews-E703.htm
+Indeed source: https://www.indeed.com/cmp/Vf-Corporation/reviews
+Comparably source: https://www.comparably.com/companies/v-f-corporation",3.7,1167,3.8,"1,222",3.7,642,,,,
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,"Deerfield, Illinois",2014,"Glassdoor source: https://www.glassdoor.com/Reviews/Walgreens-Boots-Alliance-Reviews-E3779.htm
+Indeed source: https://www.indeed.com/cmp/Walgreens-Boots-Alliance/reviews
+Comparably source: https://www.comparably.com/companies/walgreens-boots-alliance",3.2,1975,3,"1,231",2.2,73,,,,
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1962,"Glassdoor source: https://www.glassdoor.com/Reviews/Walmart-Reviews-E715.htm
+Indeed source: https://www.indeed.com/cmp/Walmart/reviews
+Comparably source: https://www.comparably.com/companies/walmart",3.4,118237,3.4,"260,699",3,127858,,,,
+DIS,Walt Disney,Communication Services,Movies & Entertainment,"Burbank, California",1923,"Glassdoor source: https://www.glassdoor.com/Reviews/Walt-Disney-Company-Reviews-E717.htm
+Indeed source: https://www.indeed.com/cmp/The-Walt-Disney-Company/reviews
+Comparably source: https://www.comparably.com/companies/the-walt-disney-company",3.8,12445,4.1,4801,4,10553,,,,
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,"New York City, New York",2022 (Warner Bros. 1923),"Glassdoor source: https://www.glassdoor.com/Reviews/Warner-Bros-Discovery-Reviews-E12777.htm
+Indeed source: https://www.indeed.com/cmp/Warner-Bros.-Discovery-1/reviews
+Comparably source: https://www.comparably.com/companies/warner-bros-discovery",3.6,2897,3.9,949,3.7,1689,,,,
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1970,"Glassdoor source: https://www.glassdoor.com/Reviews/Western-Digital-Reviews-E1067.htm
+Indeed source: https://www.indeed.com/cmp/Western-Digital/reviews
+Comparably source: https://www.comparably.com/companies/western-digital-corporation",3.6,3661,3.8,823,2.9,2335,,,,
+WHR,Whirlpool Corporation,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",1911,"Glassdoor source: https://www.glassdoor.com/Reviews/Whirlpool-Corporation-Reviews-E732.htm
+Indeed source: https://www.indeed.com/cmp/Whirlpool-Corporation/reviews
+Comparably source: https://www.comparably.com/companies/whirlpool-corporation",3.9,3631,3.8,"4,951",4,3466,,,,
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2002,"Glassdoor source: https://www.glassdoor.com/Reviews/Wynn-Resorts-Reviews-E15096.htm
+Indeed source: https://www.indeed.com/cmp/Wynn-Resorts-5/reviews
+Comparably source: https://www.comparably.com/companies/wynn-resorts",3.9,832,3.9,581,2.9,780,,,,
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997,"Glassdoor source: https://www.glassdoor.com/Reviews/Yum-Brands-Reviews-E6995.htm
+Indeed source: https://www.indeed.com/cmp/Yum!-Brands,-Inc./reviews
+Comparably source: https://www.comparably.com/companies/yum-brands",4.1,668,3.7,745,3.7,1266,,,,
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",1969,"Glassdoor source: https://www.glassdoor.com/Reviews/Zebra-Technologies-Reviews-E2089.htm
+Indeed source: https://www.indeed.com/cmp/Zebra-Technologies/reviews
+Comparably source: https://www.comparably.com/companies/zebra-technologies",4,1315,3.7,588,4.6,1721,,,,
