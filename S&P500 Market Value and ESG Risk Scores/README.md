@@ -1,2 +1,2 @@
 # S&P500 Market Value and ESG Risk Scores
-## _In Progress__
+## _In Progress_
